@@ -6,3 +6,4 @@ select * from dual;
 
 -- cambios de de commit
 commit;
+ exit;
